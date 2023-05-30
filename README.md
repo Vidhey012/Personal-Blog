@@ -10,7 +10,8 @@
 #### Mysqldb
 #### wtforms
 #### 
-#### Developer: Bhogadi Vidhey
+
+### Developer: Bhogadi Vidhey
 #### Full Stack Web Developer [ Java - Angular & Reack]
 ### Stay in touch with me: 
 #### GitHub: https://github.com/Vidhey012
